@@ -3,7 +3,7 @@
 
 # Tracking the Unconscious: Neural evidence for the retention of unaware information in visual working memory
 
-![](https://img.shields.io/badge/OSF-https://osf.io/gkmsy/-337AB7)
+[<img alt="alt_text" src="https://img.shields.io/badge/OSF-https://osf.io/gkmsy/-337AB7"/>](https://osf.io/gkmsy/)
 
 This repository contains the code to reproduce the analysis, figures and
 tables of the paper *Tracking the Unconscious: Neural evidence for the
